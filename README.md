@@ -1,2 +1,3 @@
-# RayalPark_25-12-23
-Unlock the secrets to creating a stunning hotel website with this step-by-step tutorial
+Hotel Royal Park is a beautifully designed and responsive website created to showcase the features, services, and amenities of the hotel. This project is built using HTML, CSS, and JavaScript.
+
+
